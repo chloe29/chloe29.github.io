@@ -34,12 +34,21 @@ body {
   background-attachment: fixed;
   color: white;
 }
+h3 {
+  border: 1px #424242 solid;
+  font-family: please write me a song;
+}
 .carousel-item {
   text-align: center;
-  margin-top: 15%;
+  margin-top: 13%;
 }
 .ecriture {
   font-family: please write me a song;
+}
+.progress {
+  width: 70%;
+  color: #424242;
+  margin-left: 20%;
 }
 #github {
   height: 30%;
@@ -48,12 +57,4 @@ body {
 #linkedin {
   height: 10%;
   width: 25%;
-}
-.progress {
-  width: 70%;
-  color: #424242;
-}
-h3 {
-  border: 1px #424242 solid;
-  font-family: please write me a song;
 }
