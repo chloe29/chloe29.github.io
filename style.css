@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://i0.wp.com/www.one-day.fr/wp-content/uploads/2016/04/fond-2-couleur.jpg?ssl=1);
+  background-attachment: fixed;
+  color: white;
+}
+.carousel-item {
+  text-align: center;
+  margin-top: 15%;
+}
+.ecriture {
+  font-family: please write me a song;
+}
+#github {
+  height: 30%;
+  width: 25%;
+}
+#linkedin {
+  height: 10%;
+  width: 15%;
+}
+.progress {
+  width: 70%;
+  color: #424242;
+}
+h3 {
+  border: 1px #424242 solid;
+  font-family: please write me a song;
+}
